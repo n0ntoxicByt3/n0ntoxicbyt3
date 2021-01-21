@@ -34,4 +34,6 @@ Credits: https://www.asciiart.eu
 
 
 
-![](https://github.com/n0ntoxicByt3/gifs/blob/main/giphy.gif)
+<img src="https://github.com/n0ntoxicByt3/gifs/blob/main/giphy.gif" width="500" />
+
+
